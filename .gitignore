@@ -1,1 +1,7 @@
 .DS_Store
+ADL-Rundle-6
+*.mp4
+*.txt
+*.onnx
+__pycache__
+.venv
