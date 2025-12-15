@@ -44,9 +44,9 @@ uv sync
 
 ### TP 1: Single Object Tracker
 ```bash
-uv run tp2/main.py
+uv run tp1/main.py
 ```
-Results: `tp2/output.mp4`
+Results: `tp1/output.mp4`
 
 ### TP 2: IoU Tracker
 ```bash
