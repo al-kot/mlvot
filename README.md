@@ -9,22 +9,21 @@ model in the root of the project:
 [link](https://www.swisstransfer.com/d/3cbb37ea-8da0-428e-af9b-c58deaba50bf)
 
 ```bash
- .
-├──  ADL-Rundle-6
-│   ├──  det
-│   ├──  gt
-│   ├──  img1
-│   └──  seqinfo.ini
-├──  pyproject.toml
-├──  README.md
-├──  reid_osnet_x025_market1501.onnx
-├──  report
-│   └──  report.typ
-├──  tp1
-│   ├──  __pycache__
-│   ├──  Basketball.jpeg
-│   ├──  contours.png
-│   ├──  Detector.py
+.
+├── ADL-Rundle-6
+│   ├── det
+│   ├── gt
+│   ├── img1
+│   └── seqinfo.ini
+├── pyproject.toml
+├── README.md
+├── reid_osnet_x025_market1501.onnx
+├── report
+│   ├── report.pdf
+│   └── report.typ
+├── tp1
+│   ├── Detector.py
+│   ├── KalmanFilter.py
 ...
 ```
 
